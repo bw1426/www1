@@ -1,6 +1,14 @@
 div{
     border:solid;
-    width: 200px;
-    height: 200px;
+    width: 100%;
+   
     background-color: aqua;
+}
+
+.kontener
+{
+    display: flex;
+}
+img{
+    max-width: 100%;
 }
